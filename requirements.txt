@@ -1,0 +1,2 @@
+fontmake>=2.4
+fontTools>=4.33.3
