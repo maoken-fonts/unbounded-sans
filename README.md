@@ -53,7 +53,7 @@ Please run `./sources/build.bat`. Requires `fontmake`.
 ## 致谢 Acknowledgement
 
 感谢 @aratakana 开源 Dela Gothic One.  
-Thank you to @aratakana to rele
+Thank you to @aratakana for open-sourcing Dela Gothic One.
 
 ### 参与补字 Filling characters
 （以 Unicode 排序/Sorted by Unicode）
