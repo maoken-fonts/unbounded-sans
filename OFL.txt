@@ -1,4 +1,4 @@
-Copyright 2022 The Unbounded Sans Project Authors (https://github.com/NightFurySL2001/unbounded-sans). 标小智 is a registered trademark of 上海婷平网络科技有限公司.
+Copyright 2022-2023 The Unbounded Sans Project Authors (https://github.com/NightFurySL2001/unbounded-sans). 标小智 is a registered trademark of 上海婷平网络科技有限公司.
 Copyright 2020 The Dela Sans Project Authors (https://github.com/syakuzen/DelaSans)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
