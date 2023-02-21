@@ -17,8 +17,8 @@ Thanks is given to [LogoSC](https://www.logosc.cn/) for supporting us to complet
 
 ## 下载 Download
 
-请前往 [发布页](https://github.com/NightFurySL2001/unbounded-sans/releases) 无界黑的最新版本。  
-Please visit [Release page](https://github.com/NightFurySL2001/unbounded-sans/releases) to download the latest version of Unbounded Sans.
+请前往 [发布页](https://github.com/maoken-fonts/unbounded-sans/releases) 下载无界黑的最新版本。  
+Please visit [Release page](https://github.com/maoken-fonts/unbounded-sans/releases) to download the latest version of Unbounded Sans.
 
 ## 授权 Licensing 授權
 
