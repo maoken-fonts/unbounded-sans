@@ -146,7 +146,7 @@ Copyright 2020 The Dela Sans Project Authors (https://github.com/syakuzen/DelaGo
         <key>platformID</key>
         <integer>3</integer>
         <key>string</key>
-        <string>Version 1.002; 20230101;NFSL;UnboundedSans-Regular;2022</string>
+        <string>Version 1.100;20230801;NFSL;UnboundedSans-Regular;2022</string>
       </dict>
       <dict>
         <key>encodingID</key>
@@ -182,7 +182,7 @@ Copyright 2020 The Dela Sans Project Authors (https://github.com/syakuzen/DelaGo
         <key>platformID</key>
         <integer>3</integer>
         <key>string</key>
-        <string>Version 1.002; 20230101</string>
+        <string>Version 1.100; 20230801</string>
       </dict>
       <dict>
         <key>encodingID</key>
@@ -194,7 +194,7 @@ Copyright 2020 The Dela Sans Project Authors (https://github.com/syakuzen/DelaGo
         <key>platformID</key>
         <integer>3</integer>
         <key>string</key>
-        <string>版本 1.002；20230101</string>
+        <string>版本 1.100；20230801</string>
       </dict>
       <dict>
         <key>encodingID</key>
@@ -378,9 +378,9 @@ Copyright 2020 The Dela Sans Project Authors (https://github.com/syakuzen/DelaGo
       </dict>
     </array>
     <key>openTypeNameUniqueID</key>
-    <string>Version 1.002;20230101;NFSL;UnboundedSans-Regular;2022</string>
+    <string>Version 1.100;20230801;NFSL;UnboundedSans-Regular;2022</string>
     <key>openTypeNameVersion</key>
-    <string>Version 1.002; 20230101</string>
+    <string>Version 1.100; 20230801</string>
     <key>openTypeOS2CodePageRanges</key>
     <array>
       <integer>0</integer>
